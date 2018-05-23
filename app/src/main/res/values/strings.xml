@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A little about me!</string>
+    <string name="my_name">Jason Jointer</string>
+    <string name="my_birthday">BDay! July 8th</string>
+    <string name="my_country">America</string>
+    <string name="my_hobby">I love to Play Videogames</string>
+    <string name="my_favorite">I like Anime, Marvel and DC comics</string>
+    <string name="my_link1">Github link</string>
+    <string name="my_link2">Linkedin Link</string>
+    <string name="contact_bar">Contact me!</string>
+    <string name="email_me">E-Mail Me!</string>
+</resources>
